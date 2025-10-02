@@ -2,6 +2,10 @@ import { useState } from "react";
 import QuoteCard from "./components/QuoteCard";
 import quotes from "./data/quotes"; 
 
+
+
+
+
 export default function App() {
   const colors = ["#EF4444", "#10B981", "#3B82F6", "#8B5CF6", "#F59E0B"];
   
